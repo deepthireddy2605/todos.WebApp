@@ -19,7 +19,7 @@
 - **JavaScript**: Used for implementing the interactive functionalities of the web app.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/ManojkumarTalari/Todos-WEB-APP.git`
+1. Clone the repository: `git clone https://github.com/deepthireddy2605/todos.WebApp.git`
 2. Open the project directory in your code editor.
 3. Open `index.html` in your web browser to view the application.
 
